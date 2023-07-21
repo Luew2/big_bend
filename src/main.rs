@@ -2,7 +2,9 @@
 
 // use big_bend::*;
 
+use big_bend::cli::run_cli;
 
 fn main() {
-    println!("Hello, world!");
+    run_cli();
 }
+
