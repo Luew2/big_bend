@@ -20,6 +20,6 @@ None currently needed.
 
 ## Usage
 Currently: run the application with cargo run.
-Add and view workouts with respective subcommands. For example: cargo run add <username> squat 225 5 to add a squat workout with a weight of 225 lbs for 5 repetitions for the user <username>.
+Add and view workouts with respective subcommands. For example: cargo run add \<username> squat 225 5 to add a squat workout with a weight of 225 lbs for 5 repetitions for the user \<username>.
 
-You can view workouts with cargo run view <username>
+You can view workouts with cargo run view \<username>
